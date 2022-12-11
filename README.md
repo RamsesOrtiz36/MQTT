@@ -74,7 +74,8 @@ Hay paginas dedicadas con servideores apra esto por ejemplo el servicio de HiveM
  
     nslookup broker.hivemq.com
 
-
+![IP HiveMQ](https://github.com/RamsesOrtiz36/MQTT/blob/main/MQTT%20comprovar%20ip%20de%20hivemq.png)
+Y usamos la IPv4 (los 4 numeros decimales separados por punto)
 
 
 
