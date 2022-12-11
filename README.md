@@ -15,7 +15,7 @@ Para comprobar que MQTT esta instalado se usa el comadno
       
 Debe aparecer una lista de servicios activos y nos interesa el que tenga **escucha en dirección local 1883**.
 
-![Comprobar MQTT](Comprobar estado de MQTT.png)
+![Comprobar MQTT](https://github.com/RamsesOrtiz36/MQTT/blob/main/Comprobar%20estado%20de%20MQTT.png)
 
 En caso de no aparecer usar el siguiente comando:
 
